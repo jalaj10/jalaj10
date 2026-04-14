@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jalaj10
 - 👀 I’m interested in Python HTML and C and many more stuff
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on HTML/CSS
 - 📫 How to reach me jalajrathour10@gmail.com
 
 <!---
